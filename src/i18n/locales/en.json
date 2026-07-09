@@ -1,0 +1,192 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "team": "Team",
+    "contact": "Contact",
+    "contactUs": "Contact Us"
+  },
+  "hero": {
+    "headline": "Building the Future,",
+    "accent": "Today",
+    "subtitle": "A premier multinational company delivering excellence across real estate, technology, energy, and finance — shaping industries and empowering futures worldwide.",
+    "ctaPrimary": "Explore Our Services",
+    "ctaSecondary": "Learn More"
+  },
+  "about": {
+    "subtitle": "About Us",
+    "headline1": "A Legacy of",
+    "accent1": "Vision",
+    "connector": "and",
+    "accent2": "Impact",
+    "paragraph1": "Founded in 2001, NAZERA has grown from a regional investment firm into a diversified multinational conglomerate with operations spanning 30+ countries. Our portfolio encompasses real estate development, technology solutions, renewable energy, financial services, and strategic consulting.",
+    "paragraph2": "We believe in creating lasting value — for our partners, our communities, and the global economy. Every decision we make is guided by integrity, innovation, and an unwavering commitment to excellence.",
+    "foundingYear": "2001",
+    "floatingStat": "25+",
+    "floatingLabel": "Years of Excellence",
+    "highlights": [
+      "Strategic investments across emerging and established markets",
+      "End-to-end project delivery with global expertise",
+      "Commitment to sustainability and innovation",
+      "Partnership-driven approach with long-term vision"
+    ]
+  },
+  "services": {
+    "subtitle": "What We Do",
+    "title": "Our Services",
+    "titleBefore": "Our",
+    "titleHighlight": "Services",
+    "description": "Across five core verticals, we deliver world-class solutions that drive growth, innovation, and sustainable impact worldwide.",
+    "learnMore": "Learn More",
+    "items": [
+      {
+        "title": "Real Estate Development",
+        "description": "Premium residential, commercial, and mixed-use developments across global markets. From concept to completion, we deliver landmark projects that redefine skylines and communities.",
+        "features": ["Luxury Residences", "Commercial Hubs", "Mixed-Use"]
+      },
+      {
+        "title": "Technology Solutions",
+        "description": "Cutting-edge IT infrastructure, AI-driven platforms, and digital transformation services that help businesses scale and compete in the digital age.",
+        "features": ["AI & Automation", "Cloud", "Cybersecurity"]
+      },
+      {
+        "title": "Energy & Renewables",
+        "description": "Sustainable energy projects including solar, wind, and hybrid installations. We are committed to powering the future while protecting the planet.",
+        "features": ["Solar Farms", "Wind Energy", "Green Consulting"]
+      },
+      {
+        "title": "Financial Services",
+        "description": "Comprehensive financial advisory, asset management, and investment banking services tailored to high-net-worth individuals and institutional investors.",
+        "features": ["Wealth Management", "Investment Banking", "Risk Advisory"]
+      },
+      {
+        "title": "Strategic Consulting",
+        "description": "Expert advisory services for market entry, mergers & acquisitions, operational optimization, and long-term growth strategy across industries.",
+        "features": ["M&A Advisory", "Market Entry", "Growth Strategy"]
+      }
+    ]
+  },
+  "stats": {
+    "items": [
+      { "value": 200, "suffix": "+", "label": "Projects Delivered", "description": "Across 30+ countries on every continent" },
+      { "value": 5000, "suffix": "+", "label": "Team Members", "description": "Diverse talent driving innovation globally" },
+      { "value": 30, "suffix": "+", "label": "Countries", "description": "With a presence in every major region" },
+      { "value": 85, "suffix": "+", "label": "Industry Awards", "description": "Recognized for excellence and sustainability" }
+    ]
+  },
+  "portfolio": {
+    "subtitle": "Our Work",
+    "title": "Featured Projects",
+    "titleBefore": "Featured",
+    "titleHighlight": "Projects",
+    "description": "A selection of landmark projects that demonstrate our expertise, scale, and commitment to exceptional outcomes.",
+    "viewDetails": "View Details",
+    "all": "All",
+    "items": [
+      { "title": "Azure Towers Dubai", "category": "Real Estate", "location": "Dubai, UAE", "description": "A 72-story mixed-use luxury tower featuring 450 premium residences and world-class amenities.", "stats": "$2.1B Value" },
+      { "title": "SmartGrid Platform", "category": "Technology", "location": "Global SaaS", "description": "An AI-powered energy management platform deployed across 200+ industrial facilities.", "stats": "200+ Deployments" },
+      { "title": "Sahara Solar Complex", "category": "Energy", "location": "Morocco", "description": "One of North Africa's largest solar installations, generating 850MW of clean energy.", "stats": "850 MW" },
+      { "title": "Meridian Capital Fund", "category": "Finance", "location": "London, UK", "description": "A $3.5 billion diversified investment fund focusing on emerging market equities.", "stats": "$3.5B AUM" },
+      { "title": "Nexus Business Park", "category": "Real Estate", "location": "Singapore", "description": "A 15-acre LEED Platinum business campus housing Fortune 500 tenants.", "stats": "LEED Platinum" },
+      { "title": "CloudForge AI", "category": "Technology", "location": "San Francisco", "description": "Enterprise AI development platform serving over 500 enterprise clients globally.", "stats": "500+ Clients" }
+    ]
+  },
+  "testimonials": {
+    "subtitle": "Testimonials",
+    "title": "Trusted by Leaders",
+    "titleBefore": "Trusted by",
+    "titleHighlight": "Leaders",
+    "items": [
+      { "name": "Ahmed Al-Rashid", "role": "CEO, Al-Rashid Holdings", "text": "NAZERA transformed our real estate portfolio strategy. Their market insights and execution capabilities are unmatched in the region.", "initials": "AR" },
+      { "name": "Dr. Elena Vasquez", "role": "Director, GreenTech Foundation", "text": "Their commitment to sustainable energy is genuine. The Sahara Solar Complex is a testament to NAZERA's ability to deliver economically viable and environmentally responsible projects.", "initials": "EV" },
+      { "name": "Michael Park", "role": "CTO, DataStream Inc.", "text": "CloudForge AI has been transformative for our operations. NAZERA's technology division understood our needs at a fundamental level and delivered a platform that scaled beyond expectations.", "initials": "MP" }
+    ]
+  },
+  "team": {
+    "subtitle": "Leadership",
+    "title": "Meet Our Team",
+    "titleBefore": "Meet Our",
+    "titleHighlight": "Team",
+    "description": "Decades of combined experience from the world's top firms, united by a shared vision for sustainable global growth.",
+    "items": [
+      { "name": "Khalid Al-Nazari", "role": "Chairman & CEO", "bio": "Over 30 years of global business leadership. Former senior advisor to sovereign wealth funds across the GCC.", "initials": "KN" },
+      { "name": "Sarah Mitchell", "role": "Chief Operating Officer", "bio": "Ex-McKinsey partner with deep expertise in operational transformation across emerging markets.", "initials": "SM" },
+      { "name": "James Chen", "role": "Chief Technology Officer", "bio": "Serial tech entrepreneur with three successful exits. Pioneer in enterprise AI and cloud architecture.", "initials": "JC" },
+      { "name": "Amira Hassan", "role": "VP of Investments", "bio": "CFA charterholder and former Goldman Sachs MD specializing in cross-border M&A.", "initials": "AH" }
+    ]
+  },
+  "contact": {
+    "subtitle": "Contact Us",
+    "title": "Let's Connect",
+    "titleBefore": "Let's",
+    "titleHighlight": "Connect",
+    "description": "Whether you're exploring a partnership, seeking investment opportunities, or want to learn more — we'd love to hear from you.",
+    "form": {
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "company": "Company",
+      "message": "Message",
+      "namePlaceholder": "John Smith",
+      "emailPlaceholder": "john@company.com",
+      "companyPlaceholder": "Your Company Name",
+      "messagePlaceholder": "Tell us about your project or inquiry...",
+      "send": "Send Message",
+      "sending": "Sending..."
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Phone",
+      "hours": "Business Hours",
+      "emailValue": "inquiries@nazera.com",
+      "phoneValue": "+971 4 123 4567",
+      "hoursValue": "Sun – Thu: 9 AM – 6 PM (GST)"
+    },
+    "offices": {
+      "title": "Our Offices",
+      "items": [
+        { "city": "Dubai, UAE", "address": "DIFC, Gate Avenue, Tower 3, Level 28", "type": "Global Headquarters" },
+        { "city": "London, UK", "address": "25 Old Broad Street, EC2N 1HQ", "type": "European Office" },
+        { "city": "Singapore", "address": "1 Raffles Place, #44-02, Tower 2", "type": "Asia Pacific Office" }
+      ]
+    },
+    "toast": {
+      "sent": "Message Sent",
+      "sentDesc": "Thank you. We will respond within 24 hours.",
+      "error": "Error",
+      "errorDesc": "Something went wrong. Please try again."
+    }
+  },
+  "footer": {
+    "description": "Building tomorrow's world today through strategic investments, innovation, and sustainable growth.",
+    "stats": [
+      { "value": "30+", "label": "Countries" },
+      { "value": "5,000+", "label": "Employees" },
+      { "value": "$12B+", "label": "Revenue" },
+      { "value": "200+", "label": "Projects" }
+    ],
+    "footerCategoryCompany": "Company",
+    "footerCategoryServices": "Services",
+    "footerCategoryResources": "Resources",
+    "footerCategoryLegal": "Legal",
+    "links": {
+      "Company": ["About Us", "Our Team", "Careers", "News & Media"],
+      "Services": ["Real Estate", "Technology", "Energy", "Finance", "Consulting"],
+      "Resources": ["Case Studies", "Annual Reports", "ESG Policy", "Investor Relations"],
+      "Legal": ["Privacy Policy", "Terms of Service", "Cookie Policy", "Compliance"]
+    },
+    "copyright": "NAZERA. All rights reserved.",
+    "social": ["LinkedIn", "Twitter", "Instagram"]
+  },
+  "admin": {
+    "access": "Admin Access",
+    "password": "Password",
+    "passwordPlaceholder": "Enter admin password",
+    "incorrectPassword": "Incorrect password",
+    "authFailed": "Authentication failed",
+    "accessDashboard": "Access Dashboard",
+    "verifying": "Verifying...",
+    "backToSite": "Back to Site"
+  }
+}

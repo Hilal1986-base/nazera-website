@@ -1,0 +1,192 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "services": "Layanan",
+    "portfolio": "Portofolio",
+    "team": "Tim Kami",
+    "contact": "Kontak",
+    "contactUs": "Hubungi Kami"
+  },
+  "hero": {
+    "headline": "Membangun Masa Depan,",
+    "accent": "Hari Ini",
+    "subtitle": "Perusahaan multinasional terkemuka yang memberikan keunggulan di bidang real estat, teknologi, energi, dan keuangan — membentuk industri dan memberdayakan masa depan di seluruh dunia.",
+    "ctaPrimary": "Jelajahi Layanan Kami",
+    "ctaSecondary": "Pelajari Lebih Lanjut"
+  },
+  "about": {
+    "subtitle": "Tentang Kami",
+    "headline1": "Warisan",
+    "accent1": "Visi",
+    "connector": "dan",
+    "accent2": "Dampak",
+    "paragraph1": "Didirikan pada tahun 2001, NAZERA telah berkembang dari perusahaan investasi regional menjadi konglomerat multinasional yang berdiversifikasi dengan operasi di lebih dari 30 negara. Portofolio kami mencakup pengembangan real estat, solusi teknologi, energi terbarukan, jasa keuangan, dan konsultasi strategis.",
+    "paragraph2": "Kami percaya dalam menciptakan nilai berkelanjutan — bagi mitra, komunitas, dan ekonomi global. Setiap keputusan yang kami buat dipandu oleh integritas, inovasi, dan komitmen yang tak tergoyahkan terhadap keunggulan.",
+    "foundingYear": "2001",
+    "floatingStat": "25+",
+    "floatingLabel": "Tahun Keunggulan",
+    "highlights": [
+      "Investasi strategis di pasar berkembang dan mapan",
+      "Pengiriman proyek end-to-end dengan keahlian global",
+      "Komitmen terhadap keberlanjutan dan inovasi",
+      "Pendekatan berbasis kemitraan dengan visi jangka panjang"
+    ]
+  },
+  "services": {
+    "subtitle": "Apa yang Kami Lakukan",
+    "title": "Layanan Kami",
+    "titleBefore": "Layanan",
+    "titleHighlight": "Kami",
+    "description": "Melalui lima lini utama, kami memberikan solusi kelas dunia yang mendorong pertumbuhan, inovasi, dan dampak berkelanjutan di seluruh dunia.",
+    "learnMore": "Pelajari Lebih Lanjut",
+    "items": [
+      {
+        "title": "Pengembangan Real Estat",
+        "description": "Pengembangan residensial, komersial, dan campuran premium di pasar global. Dari konsep hingga penyelesaian, kami menghadirkan proyek-proyek ikonik yang mendefinisikan kembali langit dan komunitas.",
+        "features": ["Residensial Mewah", "Pusat Komersial", "Penggunaan Campuran"]
+      },
+      {
+        "title": "Solusi Teknologi",
+        "description": "Infrastruktur TI mutakhir, platform berbasis AI, dan layanan transformasi digital yang membantu bisnis berkembang dan bersaing di era digital.",
+        "features": ["AI & Otomasi", "Cloud", "Keamanan Siber"]
+      },
+      {
+        "title": "Energi & Terbarukan",
+        "description": "Proyek energi berkelanjutan termasuk instalasi surya, angin, dan hibrida. Kami berkomitmen untuk menghidupkan masa depan sambil melindungi planet.",
+        "features": ["Pembangkit Surya", "Energi Angin", "Konsultasi Hijau"]
+      },
+      {
+        "title": "Jasa Keuangan",
+        "description": "Layanan advisory keuangan komprehensif, manajemen aset, dan perbankan investasi yang disesuaikan untuk individu berkekayaan tinggi dan investor institusional.",
+        "features": ["Manajemen Kekayaan", "Perbankan Investasi", "Advisori Risiko"]
+      },
+      {
+        "title": "Konsultasi Strategis",
+        "description": "Layanan advisory spesialis untuk masuk pasar, merger & akuisisi, optimasi operasional, dan strategi pertumbuhan jangka panjang lintas industri.",
+        "features": ["Advisori M&A", "Masuk Pasar", "Strategi Pertumbuhan"]
+      }
+    ]
+  },
+  "stats": {
+    "items": [
+      { "value": 200, "suffix": "+", "label": "Proyek Selesai", "description": "Di lebih dari 30 negara di setiap benua" },
+      { "value": 5000, "suffix": "+", "label": "Anggota Tim", "description": "Bakat beragam yang mendorong inovasi global" },
+      { "value": 30, "suffix": "+", "label": "Negara", "description": "Dengan kehadiran di setiap wilayah utama" },
+      { "value": 85, "suffix": "+", "label": "Penghargaan Industri", "description": "Diakui atas keunggulan dan keberlanjutan" }
+    ]
+  },
+  "portfolio": {
+    "subtitle": "Karya Kami",
+    "title": "Proyek Unggulan",
+    "titleBefore": "Proyek",
+    "titleHighlight": "Unggulan",
+    "description": "Pilihan proyek-proyek ikonik yang mendemonstrasikan keahlian, skala, dan komitmen kami terhadap hasil yang luar biasa.",
+    "viewDetails": "Lihat Detail",
+    "all": "Semua",
+    "items": [
+      { "title": "Azure Towers Dubai", "category": "Real Estat", "location": "Dubai, UEA", "description": "Menara campuran mewah 72 lantai dengan 450 residensial premium dan fasilitas kelas dunia.", "stats": "Nilai $2.1 Miliar" },
+      { "title": "Platform SmartGrid", "category": "Teknologi", "location": "SaaS Global", "description": "Platform manajemen energi berbasis AI yang digunakan di lebih dari 200 fasilitas industri.", "stats": "200+ Deploy" },
+      { "title": "Kompleks Surya Sahara", "category": "Energi", "location": "Maroko", "description": "Salah satu instalasi surya terbesar di Afrika Utara, menghasilkan 850MW energi bersih.", "stats": "850 MW" },
+      { "title": "Dana Meridian Capital", "category": "Keuangan", "location": "London, Inggris", "description": "Dana investasi terdiversifikasi senilai $3.5 miliar yang berfokus pada ekuitas pasar berkembang.", "stats": "AUM $3.5 Miliar" },
+      { "title": "Nexus Business Park", "category": "Real Estat", "location": "Singapura", "description": "Kampus bisnis LEED Platinum seluas 15 hektar yang menampung penyewa Fortune 500.", "stats": "LEED Platinum" },
+      { "title": "CloudForge AI", "category": "Teknologi", "location": "San Francisco", "description": "Platform pengembangan AI enterprise yang melayani lebih dari 500 klien enterprise secara global.", "stats": "500+ Klien" }
+    ]
+  },
+  "testimonials": {
+    "subtitle": "Testimoni",
+    "title": "Dipercaya oleh Para Pemimpin",
+    "titleBefore": "Dipercaya oleh Para",
+    "titleHighlight": "Pemimpin",
+    "items": [
+      { "name": "Ahmed Al-Rashid", "role": "CEO, Al-Rashid Holdings", "text": "NAZERA mengubah strategi portofolio real estat kami. Wawasan pasar dan kemampuan eksekusi mereka tidak tertandingi di kawasan ini.", "initials": "AR" },
+      { "name": "Dr. Elena Vasquez", "role": "Direktur, Yayasan GreenTech", "text": "Komitmen mereka terhadap energi berkelanjutan nyata. Kompleks Surya Sahara adalah bukti kemampuan NAZERA dalam menghadirkan proyek yang layak secara ekonomi dan bertanggung jawab secara lingkungan.", "initials": "EV" },
+      { "name": "Michael Park", "role": "CTO, DataStream Inc.", "text": "CloudForge AI sangat transformatif untuk operasi kami. Divisi teknologi NAZERA memahami kebutuhan kami pada tingkat fundamental dan menghadirkan platform yang melampaui ekspektasi.", "initials": "MP" }
+    ]
+  },
+  "team": {
+    "subtitle": "Kepemimpinan",
+    "title": "Tim Kami",
+    "titleBefore": "",
+    "titleHighlight": "Tim Kami",
+    "description": "Pengalaman gabungan puluhan tahun dari perusahaan-perusahaan terbaik di dunia, bersatu dengan visi bersama untuk pertumbuhan global berkelanjutan.",
+    "items": [
+      { "name": "Khalid Al-Nazari", "role": "Ketua & CEO", "bio": "Lebih dari 30 tahun kepemimpinan bisnis global. Mantan penasior senior dana kekayaan berdaulat di kawasan GCC.", "initials": "KN" },
+      { "name": "Sarah Mitchell", "role": "COO", "bio": "Mantan partner McKinsey dengan keahlian mendalam dalam transformasi operasional di pasar berkembang.", "initials": "SM" },
+      { "name": "James Chen", "role": "CTO", "bio": "Wirausahawan teknologi serial dengan tiga keberhasilan exit. Perintis AI enterprise dan arsitektur cloud.", "initials": "JC" },
+      { "name": "Amira Hassan", "role": "VP Investasi", "bio": "Pemegang charter CFA dan mantan MD Goldman Sachs yang mengkhususkan diri dalam M&A lintas batas.", "initials": "AH" }
+    ]
+  },
+  "contact": {
+    "subtitle": "Hubungi Kami",
+    "title": "Mari Terhubung",
+    "titleBefore": "Mari",
+    "titleHighlight": "Terhubung",
+    "description": "Baik Anda menjelajahi kemitraan, mencari peluang investasi, atau ingin belajar lebih lanjut — kami senang mendengar dari Anda.",
+    "form": {
+      "fullName": "Nama Lengkap",
+      "email": "Alamat Email",
+      "company": "Perusahaan",
+      "message": "Pesan",
+      "namePlaceholder": "John Smith",
+      "emailPlaceholder": "john@perusahaan.com",
+      "companyPlaceholder": "Nama Perusahaan Anda",
+      "messagePlaceholder": "Ceritakan tentang proyek atau pertanyaan Anda...",
+      "send": "Kirim Pesan",
+      "sending": "Mengirim..."
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Telepon",
+      "hours": "Jam Operasional",
+      "emailValue": "inquiries@nazera.com",
+      "phoneValue": "+971 4 123 4567",
+      "hoursValue": "Min – Kam: 09.00 – 18.00 (GST)"
+    },
+    "offices": {
+      "title": "Kantor Kami",
+      "items": [
+        { "city": "Dubai, UEA", "address": "DIFC, Gate Avenue, Tower 3, Lantai 28", "type": "Kantor Pusat Global" },
+        { "city": "London, Inggris", "address": "25 Old Broad Street, EC2N 1HQ", "type": "Kantor Eropa" },
+        { "city": "Singapura", "address": "1 Raffles Place, #44-02, Tower 2", "type": "Kantor Asia Pasifik" }
+      ]
+    },
+    "toast": {
+      "sent": "Pesan Terkirim",
+      "sentDesc": "Terima kasih. Kami akan merespons dalam 24 jam.",
+      "error": "Kesalahan",
+      "errorDesc": "Terjadi kesalahan. Silakan coba lagi."
+    }
+  },
+  "footer": {
+    "description": "Membangun dunia masa depan hari ini melalui investasi strategis, inovasi, dan pertumbuhan berkelanjutan.",
+    "stats": [
+      { "value": "30+", "label": "Negara" },
+      { "value": "5.000+", "label": "Karyawan" },
+      { "value": "$12B+", "label": "Pendapatan" },
+      { "value": "200+", "label": "Proyek" }
+    ],
+    "footerCategoryCompany": "Perusahaan",
+    "footerCategoryServices": "Layanan",
+    "footerCategoryResources": "Sumber Daya",
+    "footerCategoryLegal": "Hukum",
+    "links": {
+      "Company": ["Tentang Kami", "Tim Kami", "Karir", "Berita & Media"],
+      "Services": ["Real Estat", "Teknologi", "Energi", "Keuangan", "Konsultasi"],
+      "Resources": ["Studi Kasus", "Laporan Tahunan", "Kebijakan ESG", "Hubungan Investor"],
+      "Legal": ["Kebijakan Privasi", "Syarat Layanan", "Kebijakan Cookie", "Kepatuhan"]
+    },
+    "copyright": "NAZERA. Hak cipta dilindungi.",
+    "social": ["LinkedIn", "Twitter", "Instagram"]
+  },
+  "admin": {
+    "access": "Akses Admin",
+    "password": "Kata Sandi",
+    "passwordPlaceholder": "Masukkan kata sandi admin",
+    "incorrectPassword": "Kata sandi salah",
+    "authFailed": "Autentikasi gagal",
+    "accessDashboard": "Akses Dashboard",
+    "verifying": "Memverifikasi...",
+    "backToSite": "Kembali ke Situs"
+  }
+}
